@@ -11,4 +11,8 @@ commands learned till now:
 - git branch work-exp
 - git checkout work-exp
 
+- git checkout -b work-exx (create branch if not and switch)
+
 this line is written after creating branch.
+
+- git restore --staged about-me.txt
