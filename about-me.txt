@@ -7,3 +7,6 @@ commands learned till now:
 - git add
 - git commit
 - git diff
+
+- git branch work-exp
+- git checkout work-exp
