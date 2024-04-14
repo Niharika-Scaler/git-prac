@@ -7,7 +7,7 @@ commands learned till now:
 - git log --graph -> lists all commits graphically
 - git add filename/path -> stages a fiile
 - git commit [-m "message"] -> commits all staged files
-- git diff -> show diffences in master and current branch
+- git diff branch-> show diffences in specified branch and current branch
 
 - git branch -> list existing branches
 - git branch work-exp -> create branch 
