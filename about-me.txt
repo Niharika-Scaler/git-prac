@@ -1,18 +1,15 @@
-My name is Niharika sharma.
+My name is Niharika sharma
 
 commands learned till now:
 - git init
 - git status
 - git log
-- git add filename/path
-- git commit [-m "message"]
+- git add
+- git commit
 - git diff
 
-- git branch -> list existing branches
-- git branch work-exp -> create branch 
-- git checkout work-exp -> open branch 
-- git merge work-exp -> merge this branch with working branch
-- git branch -d work-exp -> delete branch
+- git branch work-exp
+- git checkout work-exp
 
 - git checkout -b work-exx (create branch if not and switch)
 
