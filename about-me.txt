@@ -1,4 +1,4 @@
-My name is Niharika sharma
+My name is Niharika sharma.
 
 commands learned till now:
 - git init
