@@ -1,18 +1,22 @@
 My name is Niharika sharma.
 
 commands learned till now:
-- git init
-- git status
-- git log
-- git add
-- git commit
-- git diff
+- git init -> initialize git repository
+- git status -> show current status of repository like staged files current branch etc
+- git log -> lists all commits
+- git log --graph -> lists all commits graphically
+- git add filename/path -> stages a fiile
+- git commit [-m "message"] -> commits all staged files
+- git diff -> show diffences in master and current branch
 
-- git branch work-exp
-- git checkout work-exp
+- git branch -> list existing branches
+- git branch work-exp -> create branch 
+- git checkout work-exp -> open branch 
+- git merge work-exp -> merge this branch with working branch
+- git branch -d work-exp -> delete branch
 
-- git checkout -b work-exx (create branch if not and switch)
+- git checkout -b work-exx -> create branch if not and switch
 
 this line is written after creating branch.
 
-- git restore --staged about-me.txt
+- git restore --staged about-me.txt -> removes changes done in all staged files to last commit
