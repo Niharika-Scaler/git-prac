@@ -13,7 +13,7 @@ commands learned till now:
 - git branch -> list existing branches
 - git branch work-exp -> create branch 
 - git checkout work-exp -> open branch 
-- git merge work-exp -> merge this branch with working branch
+- git merge work-exp -> merge this branch with working branch say master. can be done vice versa.
 - git branch -d work-exp -> delete branch
 
 - git checkout -b work-exx -> create branch if not and switch
@@ -22,4 +22,4 @@ this line is written after creating branch.
 
 - git restore --staged about-me.txt -> removes changes done in all staged files to last commit
 
-- git rebase master -> done in branch.
+- git rebase newb -> done in master. to add newb changes to master. can be done vice versa.
