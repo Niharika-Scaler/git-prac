@@ -5,7 +5,8 @@ commands learned till now:
 - git status -> show current status of repository like staged files current branch etc
 - git log -> lists all commits
 - git log --graph -> lists all commits graphically
-- git add filename/path -> stages a fiile
+- git add filename/path -> stages a file 
+- git add -A -> stages all unsaved and newly created files
 - git commit [-m "message"] -> commits all staged files
 - git diff branch-> show diffences in specified branch and current branch
 
@@ -20,3 +21,5 @@ commands learned till now:
 this line is written after creating branch.
 
 - git restore --staged about-me.txt -> removes changes done in all staged files to last commit
+
+- git rebase master -> done in branch.
